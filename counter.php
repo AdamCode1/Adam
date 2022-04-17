@@ -1,2 +1,2 @@
 <?php
-fopen('hello.txt',"r");
+echo "hello world";
